@@ -1,0 +1,13 @@
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.csproj.AssemblyReference.cache
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.AdminDashboardForm1.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.AdminLoginForm.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.CustomerDashboardForm.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.CustomerLoginForm.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.CustomerRegisterForm.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.LoginForm.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.Properties.Resources.resources
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.csproj.GenerateResource.cache
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.AssemblyInfoInputs.cache
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.AssemblyInfo.cs
+C:\Users\rinah\source\repos\Hotel_BS\Hotel_BS\obj\Debug\net8.0-windows\Hotel_BS.csproj.CoreCompileInputs.cache
